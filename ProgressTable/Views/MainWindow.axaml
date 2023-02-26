@@ -45,7 +45,7 @@
 			<TextBlock Classes="h1" Text="Физ-ра" Grid.Column="5"/>
 			<TextBlock Classes="h1" Text="Мат.&#x0a;анализ" Grid.Column="6"/>
 			<TextBlock Classes="h1" Text="ЭЭС" Grid.Column="7"/>
-			<TextBlock Classes="h1" Text="Средний&#x0a;балл" Grid.Column="8"/>
+			<TextBlock Classes="h1" Text="Ср.&#x0a;балл" Grid.Column="8"/>
 			<Border Grid.Row="0" Grid.Column="0"  BorderBrush="Black"  BorderThickness="1" />
 			<Border Grid.Row="0" Grid.Column="1"  BorderBrush="Black"  BorderThickness="1" />
 			<Border Grid.Row="0" Grid.Column="2"  BorderBrush="Black"  BorderThickness="1" />
